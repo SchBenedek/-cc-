@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "öccá", "öccá\öccá.csproj", "{F18F5CD6-0F60-41B4-8A65-7667E806392C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18F5CD6-0F60-41B4-8A65-7667E806392C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18F5CD6-0F60-41B4-8A65-7667E806392C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18F5CD6-0F60-41B4-8A65-7667E806392C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18F5CD6-0F60-41B4-8A65-7667E806392C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B5DADF1-5018-48AD-A954-FBA13510915F}
+	EndGlobalSection
+EndGlobal
